@@ -49,14 +49,14 @@
       "deviceSignature": "b/B4ikmjoZ4XfyDyN13iarflpR5VXKu4LXW/7woSdPtR7j6pXBBiqbvZ1pH3jcKKIJP4viSryaNn+2+bPCL7CA=="
     },
     "me": {
-      "id": "6281352848936:6@s.whatsapp.net",
+      "id": "62858892331240:6@s.whatsapp.net",
       "verifiedName": "",
-      "name": "I'm DaniBotz"
+      "name": "I'm RielzBotz"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6281352848936:6@s.whatsapp.net",
+          "name": "6285889233124:6@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -354,7 +354,7 @@
       }
     },
     "sessions": {
-      "6281352848936.0": {
+      "62858892331240.0": {
         "_sessions": {
           "BVXNbmHv79MbUhCowpdB9auU7X7n6pab18y06vCxOGoy": {
             "registrationId": 1129767339,
